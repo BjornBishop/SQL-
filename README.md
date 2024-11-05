@@ -8,3 +8,5 @@ Any projects built using the old template will continue to work. For all new pro
 
 ---
 Happy coding!
+
+Use: ./start_postgresql.sh to run the command in start_postgreSQL.sh
